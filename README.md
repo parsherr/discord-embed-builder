@@ -1,4 +1,4 @@
-# Discord Embed Builder
+# Discord Embed Builder <img src="https://raw.githubusercontent.com/parsherr/discord-embed-builder/refs/heads/main/assets/media/discord-embed-builder-logo-v2.png" alt="Discord Embed Builder" width="35"/>
 
 <div align="center">
   <h1>Language</h1>
@@ -7,7 +7,7 @@
 </div>
   <br/>
 <div align="center">
-  <img src="public/assets/media/gui.png" alt="Discord Embed Builder" width="600"/>
+  <img src="https://raw.githubusercontent.com/parsherr/discord-embed-builder/refs/heads/main/assets/media/image.png" alt="Discord Embed Builder" width="600"/>
   <br/>
   <p>Advanced embed message builder for Discord</p>
 </div>
