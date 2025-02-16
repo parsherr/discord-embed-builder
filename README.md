@@ -1,6 +1,12 @@
 # Discord Embed Builder
 
 <div align="center">
+  <h1>Language</h1>
+  
+ English | [Türkçe >>](./README-TR.md)
+</div>
+  <br/>
+<div align="center">
   <img src="public/assets/media/gui.png" alt="Discord Embed Builder" width="600"/>
   <br/>
   <p>Advanced embed message builder for Discord</p>
