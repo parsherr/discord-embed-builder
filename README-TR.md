@@ -1,7 +1,13 @@
 # Discord Embed Builder
 
 <div align="center">
-  <img src="public/assets/media/gui.png" alt="Discord Embed Builder" width="600"/>
+  <h1>Language</h1>
+  
+ Türkçe | [English >>](https://github.com/parsherr/discord-embed-builder)
+</div>
+  <br/>
+<div align="center">
+  <img src="public/assets/media/gui.png" alt="Discord Embed Builder" width="600"/>  
   <br/>
   <p>Discord için gelişmiş embed mesaj oluşturucu</p>
 </div>
