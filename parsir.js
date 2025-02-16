@@ -1,1 +1,0 @@
-console.log("readme'de ki şart gerçekleştiğinde paylaşılacak")
