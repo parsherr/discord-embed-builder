@@ -34,7 +34,7 @@
 
 ## 🌐 Demo
 
-[Live Demo](https://discord-embed-builder-parsherr.vercel.app/)
+[Live Demo](http://us1.botcore.org:5016/)
 
 ## 💻 Installation
 
